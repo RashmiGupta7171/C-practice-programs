@@ -175,6 +175,7 @@
 // return 0;
 // }
 
+ // code written using function
 #include <stdio.h>
 
 void drawTriangle(int size);
